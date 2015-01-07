@@ -3,8 +3,8 @@ cybersource-sdk-dotnet
 
 .Net SDK for the CyberSource Simple Order API
 
-##Installation
-Run the following command in the NuGet Package Manager Console:
+##PackageInstallation
+If you want to use sdk from package,Run the following command in the NuGet Package Manager Console:
 
      PM> Install-Package CyberSource
 ##Requirements
