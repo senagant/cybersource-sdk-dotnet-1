@@ -5,7 +5,6 @@ cybersource-sdk-dotnet
 
       PM> Install-Package CyberSource
 
-
 ======================
 
 ##Requirements
